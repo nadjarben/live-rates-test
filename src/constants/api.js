@@ -1,0 +1,1 @@
+export const API_LIVE_RATES = "https://www.live-rates.com";
